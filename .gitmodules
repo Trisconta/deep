@@ -1,0 +1,6 @@
+[submodule "diplomacy"]
+	path = diplomacy
+	url = ../diplomacy.git
+[submodule "dipmaps"]
+	path = dipmaps
+	url = ../dipmaps.git
